@@ -9,7 +9,7 @@ default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
     'start_date': datetime(2020, 11, 8),
-    'email': ['airflow@example.com'],
+    'email': ['saurabh2509raokhande@gmail.com'],
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 1,
